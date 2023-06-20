@@ -17,4 +17,15 @@ PTS部分需要公司的域名，如果公司之前已经注册过的，只需�
 ![image](./PTS.png)
 
 
+PTS测试时，可以对比正常的设备抓取hci log进行分析
+![image](./vivo.png)
+
+PTS测试的实例，可以在TS文档mapping找到对应
+![image](./mapping.png)
+
+M选项是must必选的，O可以当作选项通过测试
+![image](./ms.png)
+
+
+
 
